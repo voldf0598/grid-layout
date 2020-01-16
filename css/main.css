@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -25,4 +25,8 @@ body {
 .img-flex {
   display: block;
   width: 100%;
+}
+
+.photo {
+  margin: 0;
 }
